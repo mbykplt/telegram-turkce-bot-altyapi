@@ -1,2 +1,2 @@
 # telegram-turkce-bot-altyapi
-Telegram uygulaması için NodeJs ile yapılmış ufak bir altyapı.
+<h5 align="center">Telegram uygulaması için Node.js ile yapılmış ufak bir altyapı.</h5>
